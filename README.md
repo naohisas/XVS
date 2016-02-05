@@ -18,4 +18,4 @@ The main characteristics of our system are as follows:
 
 ### Publications
 1. 坂本尚久, 小山田耕二, Excelで学ぶコンピュータグラフィックス技術入門, コロナ社, 2011. [[Link](http://www.coronasha.co.jp/np/isbn/9784339024555/)], [[サンプルコード](https://github.com/naohisas/XVS/wiki/Excelで学ぶコンピュータグラフィックス技術入門)]
-2. Naohisa Sakamoto, Koji Koyamada, An Educational System of Scientific Visualization Techniques Using Microsoft Excel Spreadseets, IEEE Pacific Visualization 2011 (Poster), 2011. [PDF]
+2. Naohisa Sakamoto, Koji Koyamada, An Educational System of Scientific Visualization Techniques Using Microsoft Excel Spreadseets, IEEE Pacific Visualization 2011 (Poster), 2011. [[PDF](https://github.com/naohisas/XVS/blob/master/Paper/pvis2011_xvs.pdf)], [[Poster](https://github.com/naohisas/XVS/blob/master/Paper/pvis2011_xvs_poster.pdf)]
