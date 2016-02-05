@@ -17,5 +17,5 @@ The main characteristics of our system are as follows:
 <a href="https://www.youtube.com/watch?v=TtYYqvFpeAM"><img src="http://img.youtube.com/vi/TtYYqvFpeAM/0.jpg" width=250/></a>
 
 ### Publications
-1. 坂本尚久, 小山田耕二, Excelで学ぶコンピュータグラフィックス技術入門, コロナ社, 2011. [[Web](http://www.coronasha.co.jp/np/isbn/9784339024555/)]
+1. 坂本尚久, 小山田耕二, Excelで学ぶコンピュータグラフィックス技術入門, コロナ社, 2011. [[Web](http://www.coronasha.co.jp/np/isbn/9784339024555/)], [[サンプルコード](https://github.com/naohisas/XVS/wiki/Excelで学ぶコンピュータグラフィックス技術入門)]
 2. Naohisa Sakamoto, Koji Koyamada, An Educational System of Scientific Visualization Techniques Using Microsoft Excel Spreadseets, IEEE Pacific Visualization 2011 (Poster), 2011. [PDF]
