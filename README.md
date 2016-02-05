@@ -9,7 +9,7 @@ The main characteristics of our system are as follows:
 * By using our Excel-based system, users can efficiently learn the basis of computer graphics and scientific visualization techniques by using commodity PCs.
 
 ### Movies
-<table align=center border=0>
+<table align="center" border="0">
 <tr>
 <td><a href="https://www.youtube.com/watch?v=NkWoRxJo_7g"><img src="http://img.youtube.com/vi/NkWoRxJo_7g/0.jpg" width=250/></a></td>
 <td><a href="https://www.youtube.com/watch?v=D8GOPzjl0HU"><img src="http://img.youtube.com/vi/D8GOPzjl0HU/0.jpg" width=250/></a></td>
