@@ -10,7 +10,7 @@ The main characteristics of our system are as follows:
 
 ### Download
 
-[ExcelComputerGraphicsSystem](https://github.com/naohisas/XVS/blob/master/Book/ExcelComputerGraphicsSystem.xls?raw=true)
+* [Excel CG System](https://github.com/naohisas/XVS/blob/master/Book/ExcelComputerGraphicsSystem.xls?raw=true) (1.4MB)
 
 ### Movies
 <table align="center" border="0">
